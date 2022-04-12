@@ -116,7 +116,7 @@ section {
 
 .Start{
   color: #fff;
-  background: blue;
+  background: #000052;
   padding: 8px 30px;
   font-size: 20px;
   border-radius: 5px;
@@ -132,6 +132,12 @@ section {
 }
 
 .SignUp{
+  color: #fff;
   background: #000052;
-  padding: 8px 30 px;
+  padding: 8px 30px;
+  font-size: 20px;
+  border-radius: 5px;
+  margin-left: 140px;
+  text-decoration: none;
+
 }
